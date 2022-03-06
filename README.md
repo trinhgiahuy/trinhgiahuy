@@ -23,5 +23,3 @@ https://inst.eecs.berkeley.edu/~cs150/sp13/agenda/lec/
 http://web.mit.edu/6.111/www/f2017/handouts/
 
 https://github.com/sakarivelho
-
-https://www.linkedin.com/learning/linux-device-drivers/solution-write-trace-debug?autoAdvance=true&autoSkip=true&autoplay=true&resume=false
