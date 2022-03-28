@@ -23,3 +23,5 @@ https://inst.eecs.berkeley.edu/~cs150/sp13/agenda/lec/
 http://web.mit.edu/6.111/www/f2017/handouts/
 
 https://github.com/sakarivelho
+
+[Bash Script Tutorial](https://tecadmin.net/tutorial/bash-scripting/)
