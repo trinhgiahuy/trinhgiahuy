@@ -37,6 +37,8 @@ https://github.com/sakarivelho
 
 [iotforall](https://www.iotforall.com/)
 
+[Learn BeagleBone Black Embedded](https://github.com/nghiaphamsg/BeagleBone_Black_Embedded)
+
 GOOD AUTHOR FOR SE
 
 [Steve Jansen](http://steve-jansen.github.io/)
