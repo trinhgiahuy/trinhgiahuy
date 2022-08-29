@@ -41,6 +41,26 @@ GOOD AUTHOR FOR SE
 
 [Steve Jansen](http://steve-jansen.github.io/)
 
+ML INFERECNCE ON PICO PROJECT:
+
+Same tut
+
+- https://www.hackster.io/dmitrywat/machine-learning-inference-on-raspberry-pico-2040-e6e874
+- https://www.geeky-gadgets.com/raspberry-pi-pico-machine-learning-08-02-2021/
+
+[ML Nano BLE 33 & RPi](https://www.hackster.io/zoromoth/machine-learning-with-nano-ble-33-raspberry-pi-958b2f)
+
+[TinyML - Motion Recognition Using Pico](https://mjrobot.org/2021/03/12/tinyml-motion-recognition-using-raspberry-pi-pico/)
+
+ArduCAM
+
+[Person Detection on Raspberry Pi Pico with ArduCAM and TensorFlow Lite](https://www.cnx-software.com/2021/02/07/person-detection-on-raspberry-pi-pico-with-arducam-and-tensorflow-lite/)
+
+Using ADXL-335
+
+[TinyML Implementation using Raspberry Pi Pico: Geometry Gesture Detection (Part-II)](https://medium.com/@subirmaity/tinyml-implementation-using-raspberry-pi-pico-geometry-gesture-detection-part-ii-d3d83a5d8cdb)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
  
