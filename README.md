@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ## Some good sources I found
 
+[Convert a 5V Arduino Nano clone to run on 3.3V](https://alw1746.github.io/projects/33vnano/index.html)
+
 [Lean2 Embedded systems without the bloat](https://iosoft.blog/)
 
 https://inst.eecs.berkeley.edu/~cs150/sp13/agenda/lec/
