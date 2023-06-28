@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinhgiahuy&layout=compact&langs_count=16theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinhgiahuy&show_icons=true&theme=tokyonight&layout=compac)](https://github.com/anuraghazra/github-readme-stats)
 
+## Pass for Ubuntu 18 WSL2: 
+username: huy, passw: huy
+
 ## Some good sources I found
 
 [Convert a 5V Arduino Nano clone to run on 3.3V](https://alw1746.github.io/projects/33vnano/index.html)
