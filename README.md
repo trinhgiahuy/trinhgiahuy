@@ -1,14 +1,7 @@
-
-
-<!
-**trinhgiahuy/trinhgiahuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on https://gitlab.com/giahuy050201/a64fxCvC
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinhgiahuy&layout=compact&langs_count=16theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinhgiahuy&show_icons=true&theme=tokyonight&layout=compac)](https://github.com/anuraghazra/github-readme-stats)
 
