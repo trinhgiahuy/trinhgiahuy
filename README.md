@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on https://gitlab.com/giahuy050201/a64fxCvC
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Sparse Computing/CGRA Topics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinhgiahuy&show_icons=true&theme=tokyonight&layout=compac)](https://github.com/anuraghazra/github-readme-stats)
 
